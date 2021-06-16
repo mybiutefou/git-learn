@@ -11,5 +11,6 @@ public class biu {
         System.out.println("ibubiu3");
         System.out.println("master test");
         System.out.println("hot-fix");
+        System.out.println("push test1");
     }
 }

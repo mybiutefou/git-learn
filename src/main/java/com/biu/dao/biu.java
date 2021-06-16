@@ -9,5 +9,6 @@ public class biu {
         System.out.println("ibubiu");
         System.out.println("ibubiu2");
         System.out.println("ibubiu3");
+        System.out.println("master test");
     }
 }

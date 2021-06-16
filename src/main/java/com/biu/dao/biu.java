@@ -12,6 +12,6 @@ public class biu {
         System.out.println("master test");
         System.out.println("hot-fix");
         System.out.println("push test1");
-        System.out.printLn("pull test");
+        System.out.println("pull test");
     }
 }
